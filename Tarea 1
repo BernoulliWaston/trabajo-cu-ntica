@@ -2,3 +2,5 @@ Tarea 1
 
 V=–Ze**2/4πε0r
 V sería la energía potencial que va en la ec. de Sthro...
+luego:
+ψ(r,θ,φ) =R(r)q(θ)f(φ)
